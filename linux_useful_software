@@ -1,0 +1,11 @@
+----------------------------
+
+Midnight Commander;mc
+switch beetween Midnight Commander and terminal;CTRL+o
+
+----------------------------
+
+tmux;tmux new -s session_name
+detach from the Tmux session;Ctrl+b d
+list tmux sessions;tmux ls
+attach to session 0;tmux attach-session -t 0
